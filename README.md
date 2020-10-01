@@ -9,7 +9,7 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang<br/>
 
 ### 📫 How to reach me:
-[<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=flat&logo=appveyor">](https://t.me/faizinkholiq)
+[<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=for-the-badge&logo=appveyor">](https://t.me/faizinkholiq)
 
 <!-- 💬 Ask me about Web Development -->
 <!-- 📫 How to reach me: nasrunfaizinkholiq@gmail.com -->
