@@ -1,12 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm <a href="https://github.com/faizinkholiq">Faiz<a>!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
+a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/>
 
-- 🔭 I’m currently working on AWC Digital
-- 🌱 I’m currently learning Flutter, Vue, & Golang
-- 👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang
-- 💬 Ask me about Web Development
-- 📫 How to reach me: nasrunfaizinkholiq@gmail.com
-- 😄 Pronouns: faizin
+![faizinkholiq github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
+
+🔭 I’m currently working on AWC Digital
+🌱 I’m currently learning Flutter, Vue, & Golang
+👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang
+
+### 📫 How to reach me:
+[<img src="https://img.shields.io/badge/Telegram-%40LoliOverflow-blue?style=flat&logo=appveyor">](https://t.me/faizinkholiq)
+
+<!-- 💬 Ask me about Web Development -->
+<!-- 📫 How to reach me: nasrunfaizinkholiq@gmail.com -->
+<!-- 😄 Pronouns: faizin -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ⚡ Fun fact: ... -->
