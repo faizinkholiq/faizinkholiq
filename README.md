@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
 
 - 🔭 I’m currently working on AWC Digital
 - 🌱 I’m currently learning Flutter, Vue, & Golang
