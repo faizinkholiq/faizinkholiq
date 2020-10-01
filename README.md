@@ -4,12 +4,12 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 
 ![faizinkholiq github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
 
-🔭 I’m currently working on AWC Digital
-🌱 I’m currently learning Flutter, Vue, & Golang
-👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang
+🔭 I’m currently working on AWC Digital<br/>
+🌱 I’m currently learning Flutter, Vue, & Golang<br/>
+👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang<br/>
 
 ### 📫 How to reach me:
-[<img src="https://img.shields.io/badge/Telegram-%40LoliOverflow-blue?style=flat&logo=appveyor">](https://t.me/faizinkholiq)
+[<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=flat&logo=appveyor">](https://t.me/faizinkholiq)
 
 <!-- 💬 Ask me about Web Development -->
 <!-- 📫 How to reach me: nasrunfaizinkholiq@gmail.com -->
