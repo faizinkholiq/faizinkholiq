@@ -5,7 +5,7 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 
 ![faizinkholiq github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
 
-🔭 I’m currently working at AWC Digital<br/>
+🔭 I’m currently working on AWC<br/>
 🌱 I’m currently learning Flutter, Vue, & Golang<br/>
 👯 I’m looking to collaborate on develop website with PHP, JavaScript, Golang
 <br/><br/>
