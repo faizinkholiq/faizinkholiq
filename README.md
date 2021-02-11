@@ -4,6 +4,7 @@
 a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/>
 
 ![faizinkholiq github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
+[![faizinkholiq Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizinkholiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working in AWC<br/>
 🌱 I’m currently learning Flutter, Vue, & Golang<br/>
