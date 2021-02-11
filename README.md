@@ -4,7 +4,7 @@
 a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizinkholiq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizinkholiq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizinkholiq&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </p>
 
