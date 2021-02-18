@@ -14,7 +14,7 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 -->
 
 🔭 I’m currently working in AWC<br/>
-🌱 I’m currently learning Flutter, Vue, & Golang<br/>
+🌱 I’m currently learning Flutter & Golang<br/>
 👯 I’m looking to collaborate on develop some project with my power (Golang, PHP, JavaScript & Flutter)
 <br/><br/>
 ## 🔧 Languages and Tools:
