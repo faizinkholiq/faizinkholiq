@@ -22,7 +22,8 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 <br/><br/>
 ## 📫 How to reach me:
 [<img src="https://img.shields.io/badge/Whatsapp-%40faizinkholiq-teal?style=for-the-badge&logo=whatsapp&color=2ecc71">](https://wa.link/enmxxf)
-[<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=for-the-badge&logo=telegram">](https://t.me/faizinkholiq)
+<!-- [<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=for-the-badge&logo=telegram">](https://t.me/faizinkholiq)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-%40faizinkholiq-blue?style=for-the-badge&logo=telegram">](https://t.me/faizinkholiq) -->
 
 <!-- 💬 Ask me about Web Development -->
 <!-- 📫 How to reach me: nasrunfaizinkholiq@gmail.com -->
