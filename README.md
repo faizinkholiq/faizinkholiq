@@ -1,7 +1,7 @@
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/faizinkholiq">Faiz<a> !!!
+<!-- # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/faizinkholiq">Faiz<a> !!! -->
 
-a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/>
+<!-- a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/> -->
 
 <img width="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" />
 
