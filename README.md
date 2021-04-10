@@ -5,18 +5,14 @@ a student who just wants to absorb as much knowledge as possible, then share it.
 
 <img width="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" />
 
+## 🌈 My Stats:
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizinkholiq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizinkholiq&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </p>
 
-<!--
-![faizinkholiq github stats](https://github-readme-stats.vercel.app/api?username=faizinkholiq&theme=react&show_icons=true)
-[![faizinkholiq Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizinkholiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-🔭 I’m currently working in AWC<br/>
-🌱 I’m currently learning Flutter & Golang<br/>
+🔭 I’m currently working in AWC
+🌱 I’m currently learning Flutter & Golang
 👯 I’m looking to collaborate on develop some project with my power (Golang, PHP, JavaScript & Flutter)
 <br/><br/>
 ## 🔧 Languages and Tools:
