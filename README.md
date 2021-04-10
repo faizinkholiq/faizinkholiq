@@ -3,6 +3,8 @@
 
 a student who just wants to absorb as much knowledge as possible, then share it. hehehe<br/>
 
+<img width="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" />
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizinkholiq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizinkholiq&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
