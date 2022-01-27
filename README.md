@@ -21,6 +21,7 @@
 💬 Ask me about Mobile and Web Development
 <br/><br/> -->
 
+<!--
 ### 🔧 Languages and Tools
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>](https://git-scm.com/) 
 [<img src="https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/Docker.svg" alt="docker" width="50" height="30"/>](https://docker.org/) 
@@ -37,3 +38,4 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>](https://dev.mysql.com/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>](https://www.postgresql.org/) 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>](https://linux.org/)
+-->
