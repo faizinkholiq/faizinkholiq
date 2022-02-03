@@ -15,6 +15,7 @@
 </p>
 
 <!-- 
+// About me
 🔭 I’m currently working on **AWC**<br/>
 🌱 I’m currently learning **Flutter & Golang**<br/>
 👯 I’m looking to collaborate on develop some project with my power (Golang, PHP, JavaScript & Flutter)<br/>
@@ -22,6 +23,7 @@
 <br/><br/> -->
 
 <!--
+// Language & tools
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>](https://git-scm.com/)&nbsp;
 [<img src="https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/Docker.svg" alt="docker" width="30" height="20"/>](https://docker.org/) &nbsp;
 [<img src="https://github.com/detain/svg-logos/blob/master/svg/bootstrap-4.svg" alt="bootstrap" width="20" height="20"/>](https://getbootstrap.com) &nbsp;
@@ -39,6 +41,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>](https://dev.mysql.com/) &nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="20" height="20"/>](https://www.postgresql.org/) &nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>](https://linux.org&nbsp;/)
--->
 
+//Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=faizinkholiq&no-frame=true&margin-w=5&margin-h=5&column=7&theme=nord" alt="TopCodeBeast" />
+-->
