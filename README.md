@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" /><br/>
+<img width="1000rem" height="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" /><br/>
 [<img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp&color=20232a">](https://wa.link/enmxxf)
 [<img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&color=20232a">](https://t.me/faizinkholiq)
 [<img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&color=20232a">](https://www.linkedin.com/in/nasrun-faizin-kholiq-a6042116a/)
