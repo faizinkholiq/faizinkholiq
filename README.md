@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&color=20232a">](https://t.me/faizinkholiq)
 [<img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&color=20232a">](https://www.linkedin.com/in/nasrun-faizin-kholiq-a6042116a/)
 [<img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&color=20232a">](https://www.instagram.com/faizinfk/)
-[<img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&color=20232a">](https://twitter.com/faizinfk)
+[<img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&color=20232a">](https://twitter.com/fznkhlq)
 [<img src="https://img.shields.io/badge/Dev.TO-grey?style=for-the-badge&logo=dev.to&color=20232a">](https://dev.to/faizinkholiq)
 [<img src="https://img.shields.io/badge/Fiverr-grey?style=for-the-badge&logo=fiverr&color=20232a">](https://www.fiverr.com/faizinkholiq)
 <br/><br/>
