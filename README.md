@@ -1,4 +1,4 @@
-<img width="100%" height="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif" /><br/>
+<img width="100%" height="100%" src="https://media.giphy.com/media/0ry3P1drDv2OAeXdYF/giphy.gif"/><br/>
 [<img src="https://img.shields.io/badge/@glhfzzznnnnn-grey?style=for-the-badge&logo=instagram&color=20232a">](https://www.instagram.com/glhfzzznnnnn/)
 [<img src="https://img.shields.io/badge/@fznkhlq-grey?style=for-the-badge&logo=x&color=20232a">](https://twitter.com/fznkhlq)
 [<img src="https://img.shields.io/badge/faizinkholiq-grey?style=for-the-badge&logo=dev.to&color=20232a">](https://dev.to/faizinkholiq)
