@@ -1,4 +1,4 @@
-## 👋 Hi, Bang
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, Bang
 #### I'm `Faiz`, here's an overview about me:
 - 🔭 I'm working as a `Fullstack Developer` in awesome company;
 - 🪄 My power `JavaScript` & `GO`;
