@@ -8,5 +8,5 @@
 - 📬 How to reach me nasrunfaizinkholiq@gmail.com
 
 #### Portfolio
-- 📝 [Resume](#!)
+- 📝 [Resume](https://drive.google.com/file/d/1qrc24juS90kyJgROjoiaV-GlI3lclA_J/view?usp=sharing)
 - 🌐 [My Personal Site](#!)
